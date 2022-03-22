@@ -87,8 +87,13 @@ p {
 
 }
 
-@media (max-width: 1212px) {
 
+
+
+
+
+@media (max-width: 878px) {
+	
 	#nav{
 		list-style-type: none;
 		
@@ -104,14 +109,6 @@ p {
 
 
 	}
-}
-
-
-
-
-@media (max-width: 878px) {
-	
-	
 	
 	#image-home{
      
